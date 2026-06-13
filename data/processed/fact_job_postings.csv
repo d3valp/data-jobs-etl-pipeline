@@ -1,0 +1,181 @@
+job_id,title,company,city,contract_type,seniority,salary_min_eur,salary_max_eur,remote_policy,skills,posted_date,salary_mid_eur,title_normalized
+JOB0001,Data Scientist,IsCool,Paris,CDI,Junior,45033,49872,On-site,"NumPy, Python, Scikit-learn",2026-03-01,47452,data_scientist
+JOB0002,Data Engineer,FinanceLab,Paris,CDI,Mid,52464,59900,Hybrid,"AWS, GCP, Python, Spark",2026-03-13,56182,data_engineer
+JOB0003,Data Analyst,IsCool,Remote France,CDI,Junior,29792,36732,Remote,"Excel, Looker, NumPy, Power BI, Python, SQL, Tableau",2026-03-17,33262,data_analyst
+JOB0004,BI Analyst,IsCool,Lille,Alternance,Mid,41771,46340,Hybrid,"Power BI, SQL, Tableau",2026-03-13,44056,bi_analyst
+JOB0005,Data Engineer,HexaData,Marseille,CDI,Mid,49490,55677,Remote,"Airflow, NumPy, SQL, dbt",2026-05-23,52584,data_engineer
+JOB0006,Data Analyst,MobilityX,Paris,CDD,Junior,33262,43856,Hybrid,"Excel, Looker, Power BI, SQL, Tableau",2026-04-28,38559,data_analyst
+JOB0007,Data Analyst,Junot,Paris,CDD,Mid,47119,55907,On-site,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-02-09,51513,data_analyst
+JOB0008,Data Scientist,HexaData,Bordeaux,CDI,Junior,38126,47007,Hybrid,"Azure, Dataiku, NumPy, Pandas, Python, SQL, Scikit-learn, Tableau",2026-02-10,42566,data_scientist
+JOB0009,Data Engineer,Lyon Analytics,Remote France,Alternance,Junior,40100,50341,On-site,"AWS, Docker, Looker, SQL, Snowflake",2026-04-06,45220,data_engineer
+JOB0010,BI Analyst,Junot,Lyon,CDD,Mid,37004,45910,On-site,"Excel, Looker, Power BI, SQL, Tableau",2026-05-26,41457,bi_analyst
+JOB0011,ML Engineer,Lyon Analytics,Paris,CDI,Junior,51230,59593,Remote,"AWS, Dataiku, Docker, Git, Scikit-learn, Spark",2026-02-21,55412,ml_engineer
+JOB0012,Data Scientist,GreenGrid,Paris,CDI,Mid,51239,58937,On-site,"Dataiku, Python, SQL",2026-05-31,55088,data_scientist
+JOB0013,Data Analyst,GreenGrid,Paris,CDI,Junior,33257,44299,On-site,"Excel, Power BI, Python, SQL, Tableau",2026-05-27,38778,data_analyst
+JOB0014,Data Scientist,FinanceLab,Paris,CDI,Mid,47772,52566,Remote,"Dataiku, NumPy, Pandas, Python, SQL, Scikit-learn",2026-03-28,50169,data_scientist
+JOB0015,BI Analyst,IsCool,Paris,CDI,Mid,41148,48604,On-site,"BigQuery, Excel, Looker, SQL, Tableau",2026-05-19,44876,bi_analyst
+JOB0016,BI Analyst,FinanceLab,Remote France,Alternance,Senior,46362,53691,Hybrid,"Excel, Looker, Power BI, SQL, Tableau",2026-04-27,50026,bi_analyst
+JOB0017,Data Analyst,Junot,Toulouse,CDD,Mid,42422,52307,Remote,"Azure, Excel, Looker, Power BI, Python, SQL, Tableau",2026-05-03,47364,data_analyst
+JOB0018,Data Engineer,Lyon Analytics,Marseille,CDI,Senior,53656,64630,Remote,"Docker, GCP, SQL, Snowflake, Tableau",2026-01-11,59143,data_engineer
+JOB0019,Data Scientist,IsCool,Paris,CDI,Mid,49136,54809,On-site,"Azure, Dataiku, Pandas, Python, SQL, Scikit-learn",2026-04-28,51972,data_scientist
+JOB0020,Data Scientist,MobilityX,Lyon,CDI,Mid,48144,54316,Remote,"Pandas, Python, SQL, Scikit-learn, dbt",2026-03-19,51230,data_scientist
+JOB0021,Data Scientist,GreenGrid,Remote France,CDI,Junior,39543,45995,On-site,"Pandas, Python, SQL",2026-03-11,42769,data_scientist
+JOB0022,Data Analyst,Junot,Paris,CDI,Mid,43162,51302,Hybrid,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-02-03,47232,data_analyst
+JOB0023,Data Scientist,GreenGrid,Paris,CDD,Mid,50503,59097,On-site,"Dataiku, Pandas, Python, SQL",2026-04-21,54800,data_scientist
+JOB0024,Data Analyst,DataNova,Paris,Alternance,Mid,41326,52689,On-site,"Excel, Looker, Power BI, Python, SQL, Spark",2026-04-16,47008,data_analyst
+JOB0025,Data Analyst,MobilityX,Nantes,CDI,Senior,51487,62565,On-site,"Excel, Power BI, Python, SQL",2026-02-21,57026,data_analyst
+JOB0026,BI Analyst,HexaData,Lyon,CDI,Mid,38864,44690,Hybrid,"Excel, Looker, Power BI",2026-05-11,41777,bi_analyst
+JOB0027,Data Engineer,RetailFlow,Remote France,CDI,Senior,53944,65128,Hybrid,"AWS, Airflow, GCP, Pandas, Python, Spark",2026-05-11,59536,data_engineer
+JOB0028,Data Analyst,RetailFlow,Grenoble,CDI,Junior,32572,36585,Remote,"Dataiku, Looker, Power BI, SQL, Tableau",2026-02-01,34578,data_analyst
+JOB0029,Data Scientist,HexaData,Paris,CDI,Mid,50296,60007,Hybrid,"Dataiku, NumPy, Pandas, SQL, Scikit-learn, Snowflake, dbt",2026-05-21,55152,data_scientist
+JOB0030,BI Analyst,HexaData,Paris,CDI,Mid,44969,54332,Remote,"Excel, Looker, Power BI, SQL, Tableau, dbt",2026-03-27,49650,bi_analyst
+JOB0031,Data Analyst,FinanceLab,Remote France,CDI,Junior,30631,35838,Remote,"Docker, Excel, Power BI, SQL, Tableau",2026-05-28,33234,data_analyst
+JOB0032,Data Analyst,GreenGrid,Toulouse,CDI,Junior,34374,44007,Hybrid,"Excel, SQL, Tableau",2026-01-13,39190,data_analyst
+JOB0033,Data Scientist,MobilityX,Grenoble,CDI,Junior,38806,48274,Hybrid,"Dataiku, NumPy, Pandas, SQL, Scikit-learn",2026-03-08,43540,data_scientist
+JOB0034,BI Analyst,HexaData,Marseille,CDI,Mid,39969,49103,Hybrid,"Excel, Power BI, SQL, Tableau",2026-03-23,44536,bi_analyst
+JOB0035,Analytics Engineer,Junot,Paris,CDI,Mid,47251,57037,On-site,"BigQuery, Docker, Looker, Python, SQL, Scikit-learn",2026-04-18,52144,analytics_engineer
+JOB0036,Data Engineer,MobilityX,Nantes,Stage,Junior,42271,50987,On-site,"AWS, Airflow, BigQuery, GCP, Python, Spark, dbt",2026-03-11,46629,data_engineer
+JOB0037,Data Engineer,FinanceLab,Paris,CDI,Mid,51312,61244,Remote,"AWS, Airflow, GCP, Spark",2026-05-25,56278,data_engineer
+JOB0038,Data Scientist,HexaData,Paris,CDI,Senior,57488,61899,Hybrid,"Dataiku, NumPy, Pandas, SQL, Scikit-learn",2026-03-06,59694,data_scientist
+JOB0039,BI Analyst,Junot,Lyon,CDD,Junior,31866,37702,Remote,"Excel, Looker, SQL",2026-02-09,34784,bi_analyst
+JOB0040,Data Analyst,Junot,Lyon,CDI,Senior,50809,60539,Hybrid,"Excel, Power BI, Python, SQL, Tableau",2026-05-28,55674,data_analyst
+JOB0041,Data Scientist,RetailFlow,Remote France,CDI,Mid,43622,52472,Remote,"Dataiku, NumPy, Pandas, Python",2026-04-20,48047,data_scientist
+JOB0042,Data Scientist,GreenGrid,Paris,CDI,Junior,42441,53177,Remote,"Dataiku, NumPy, Pandas, Python, SQL, Scikit-learn, dbt",2026-03-11,47809,data_scientist
+JOB0043,Data Scientist,MobilityX,Grenoble,CDD,Mid,48988,57841,Remote,"Dataiku, NumPy, Pandas, Python, SQL",2026-04-08,53414,data_scientist
+JOB0044,Data Engineer,Lyon Analytics,Lyon,CDI,Mid,47906,58441,On-site,"Airflow, Docker, GCP, Looker, SQL, Snowflake, Spark",2026-03-03,53174,data_engineer
+JOB0045,BI Analyst,HexaData,Lyon,CDD,Mid,42291,52122,Remote,"Excel, Looker, Power BI, SQL, Spark, Tableau",2026-05-29,47206,bi_analyst
+JOB0046,Data Engineer,Lyon Analytics,Lyon,CDI,Senior,58508,65217,Hybrid,"AWS, Airflow, GCP, SQL, Spark",2026-01-31,61862,data_engineer
+JOB0047,BI Analyst,RetailFlow,Remote France,CDI,Junior,34050,42016,On-site,"Excel, Looker, Power BI, SQL, Tableau",2026-03-19,38033,bi_analyst
+JOB0048,Data Analyst,MobilityX,Lyon,CDI,Senior,51533,57926,Hybrid,"GCP, Git, Looker, Python, SQL, Tableau",2026-03-29,54730,data_analyst
+JOB0049,Data Analyst,Lyon Analytics,Paris,Stage,Mid,41535,48817,On-site,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-05-23,45176,data_analyst
+JOB0050,BI Analyst,IsCool,Lille,Alternance,Junior,32280,39396,On-site,"Dataiku, Excel, Looker, Power BI, Python, SQL, Tableau",2026-02-24,35838,bi_analyst
+JOB0051,Data Analyst,MobilityX,Paris,CDI,Mid,42282,46303,On-site,"Excel, GCP, Looker, Power BI, Python, SQL, Tableau",2026-03-01,44292,data_analyst
+JOB0052,Analytics Engineer,IsCool,Bordeaux,CDI,Mid,43620,51102,On-site,"Excel, Looker, Snowflake, dbt",2026-02-12,47361,analytics_engineer
+JOB0053,BI Analyst,Junot,Lille,Alternance,Senior,48597,53615,Hybrid,"Excel, Looker, Power BI, SQL, Tableau",2026-03-24,51106,bi_analyst
+JOB0054,Data Scientist,MobilityX,Paris,CDI,Mid,51712,60521,Remote,"Dataiku, Pandas, Python",2026-04-24,56116,data_scientist
+JOB0055,Analytics Engineer,IsCool,Paris,CDI,Mid,50028,61966,On-site,"Azure, BigQuery, Git, Python",2026-03-26,55997,analytics_engineer
+JOB0056,Data Engineer,IsCool,Lyon,CDI,Mid,51230,59736,Hybrid,"Airflow, Azure, GCP, SQL",2026-05-12,55483,data_engineer
+JOB0057,BI Analyst,HexaData,Paris,Alternance,Mid,40444,45980,Remote,"Excel, Looker, Power BI, SQL, Tableau",2026-02-03,43212,bi_analyst
+JOB0058,Analytics Engineer,Lyon Analytics,Paris,CDI,Junior,43161,52148,On-site,"Looker, Power BI, Python, SQL, Scikit-learn, dbt",2026-04-29,47654,analytics_engineer
+JOB0059,ML Engineer,Lyon Analytics,Lille,CDI,Senior,60390,68558,Remote,"AWS, Docker, Excel, Git, NumPy, Python, Spark",2026-05-11,64474,ml_engineer
+JOB0060,BI Analyst,MobilityX,Paris,CDI,Mid,43399,50183,Remote,"Excel, Looker, Power BI, SQL, Tableau",2026-05-04,46791,bi_analyst
+JOB0061,Data Engineer,RetailFlow,Lyon,CDI,Mid,47636,58759,Remote,"AWS, SQL, Snowflake, dbt",2026-05-02,53198,data_engineer
+JOB0062,Data Scientist,DataNova,Bordeaux,CDI,Mid,48341,53587,Hybrid,"Dataiku, Docker, NumPy, Pandas, Python, SQL, Scikit-learn",2026-02-09,50964,data_scientist
+JOB0063,Data Analyst,GreenGrid,Bordeaux,CDI,Mid,40256,49579,On-site,"Git, Power BI, Python, Tableau",2026-01-18,44918,data_analyst
+JOB0064,Data Analyst,HexaData,Toulouse,CDI,Junior,29740,37295,On-site,"Looker, SQL, Tableau",2026-01-12,33518,data_analyst
+JOB0065,Data Engineer,DataNova,Paris,CDI,Mid,50000,58351,On-site,"Airflow, Git, Python, SQL, Snowflake, Spark, dbt",2026-04-29,54176,data_engineer
+JOB0066,Data Scientist,HexaData,Lyon,CDI,Senior,56811,68193,Remote,"Dataiku, NumPy, Python, SQL, Scikit-learn, Snowflake",2026-04-19,62502,data_scientist
+JOB0067,Data Scientist,Junot,Lyon,CDI,Senior,56958,61831,Remote,"Dataiku, GCP, NumPy, Pandas, Scikit-learn",2026-04-12,59394,data_scientist
+JOB0068,Data Analyst,Junot,Lyon,CDI,Mid,38401,49860,Hybrid,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-04-23,44130,data_analyst
+JOB0069,Data Analyst,HexaData,Paris,CDI,Senior,52676,62799,Hybrid,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-03-17,57738,data_analyst
+JOB0070,BI Analyst,HexaData,Paris,CDI,Senior,50153,60331,Remote,"Excel, Power BI, SQL, Tableau",2026-02-01,55242,bi_analyst
+JOB0071,Data Engineer,IsCool,Toulouse,CDI,Mid,49230,60932,Remote,"Azure, GCP, Python, SQL, Spark, dbt",2026-04-29,55081,data_engineer
+JOB0072,Analytics Engineer,FinanceLab,Paris,CDI,Junior,38304,44797,Remote,"BigQuery, Git, Python, SQL, Snowflake, dbt",2026-02-09,41550,analytics_engineer
+JOB0073,Analytics Engineer,RetailFlow,Toulouse,Alternance,Mid,44291,48559,Remote,"BigQuery, Git, Looker, Snowflake, dbt",2026-04-02,46425,analytics_engineer
+JOB0074,Data Analyst,DataNova,Paris,Stage,Senior,53725,58475,Remote,"Looker, Python, SQL, Spark, Tableau",2026-02-22,56100,data_analyst
+JOB0075,Data Analyst,GreenGrid,Nantes,CDI,Junior,30908,37599,Hybrid,"Looker, Power BI, Python, SQL",2026-02-14,34254,data_analyst
+JOB0076,Data Analyst,IsCool,Marseille,CDI,Mid,43458,49407,Remote,"Excel, Looker, Power BI, SQL, Scikit-learn, Tableau",2026-01-17,46432,data_analyst
+JOB0077,Data Engineer,MobilityX,Bordeaux,CDI,Junior,40127,45941,Hybrid,"Python, SQL, Snowflake, Spark, dbt",2026-04-20,43034,data_engineer
+JOB0078,Data Scientist,RetailFlow,Lyon,Alternance,Junior,36661,43299,Hybrid,"BigQuery, Pandas, Python, SQL, Scikit-learn, Snowflake",2026-05-16,39980,data_scientist
+JOB0079,Data Analyst,FinanceLab,Lyon,CDI,Mid,38937,49923,Hybrid,"Docker, Excel, Looker, Python, Tableau",2026-01-25,44430,data_analyst
+JOB0080,Data Engineer,RetailFlow,Paris,CDI,Senior,62626,74187,On-site,"AWS, Docker, Python, SQL, Snowflake, dbt",2026-05-23,68406,data_engineer
+JOB0081,Data Analyst,GreenGrid,Remote France,CDI,Mid,40365,47261,On-site,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-02-09,43813,data_analyst
+JOB0082,Data Scientist,DataNova,Paris,CDI,Senior,59011,63952,Hybrid,"AWS, NumPy, Pandas, Python, SQL, Scikit-learn",2026-03-21,61482,data_scientist
+JOB0083,Analytics Engineer,GreenGrid,Paris,CDI,Junior,43384,50667,On-site,"Looker, SQL, dbt",2026-04-07,47026,analytics_engineer
+JOB0084,Data Engineer,HexaData,Paris,CDI,Mid,54363,66075,Hybrid,"Airflow, Power BI, Python, SQL",2026-04-19,60219,data_engineer
+JOB0085,Data Engineer,Lyon Analytics,Paris,CDI,Mid,48932,55759,Hybrid,"AWS, Docker, GCP, Python, SQL, Spark, dbt",2026-01-15,52346,data_engineer
+JOB0086,Data Analyst,DataNova,Paris,CDI,Junior,35093,41464,Hybrid,"Excel, Looker, Power BI, SQL, Tableau",2026-05-17,38278,data_analyst
+JOB0087,Data Scientist,RetailFlow,Lyon,Alternance,Senior,53590,60842,Remote,"Dataiku, Python, Scikit-learn",2026-04-20,57216,data_scientist
+JOB0088,Data Scientist,FinanceLab,Toulouse,CDI,Junior,35170,47085,On-site,"Dataiku, NumPy, Pandas, SQL, Scikit-learn",2026-03-04,41128,data_scientist
+JOB0089,Data Engineer,GreenGrid,Paris,CDI,Senior,63109,69890,On-site,"Airflow, Docker, Looker, Python, Spark, Tableau",2026-03-31,66500,data_engineer
+JOB0090,Data Engineer,MobilityX,Remote France,CDI,Junior,36842,42041,Hybrid,"Airflow, Python, SQL, Spark, dbt",2026-05-25,39442,data_engineer
+JOB0091,BI Analyst,HexaData,Paris,Alternance,Mid,45204,54320,Remote,"Excel, GCP, Looker, Power BI, SQL, Tableau",2026-01-15,49762,bi_analyst
+JOB0092,Data Engineer,GreenGrid,Paris,CDI,Junior,43020,53833,Remote,"AWS, Docker, SQL, Snowflake, Spark",2026-01-11,48426,data_engineer
+JOB0093,Data Engineer,DataNova,Bordeaux,CDI,Mid,47896,56003,On-site,"Airflow, GCP, Looker, Power BI, Python, Snowflake",2026-03-05,51950,data_engineer
+JOB0094,Data Scientist,RetailFlow,Remote France,CDI,Mid,45981,53035,On-site,"Azure, Dataiku, NumPy, Pandas, Power BI, Python, Scikit-learn",2026-05-23,49508,data_scientist
+JOB0095,Data Scientist,DataNova,Paris,CDD,Mid,51937,63090,Remote,"NumPy, Pandas, Python, SQL, Scikit-learn",2026-01-22,57514,data_scientist
+JOB0096,Data Engineer,DataNova,Paris,Alternance,Senior,62489,72246,On-site,"AWS, Docker, GCP, Python",2026-03-29,67368,data_engineer
+JOB0097,ML Engineer,FinanceLab,Lyon,CDI,Junior,42632,49055,On-site,"Azure, Excel, Git, Python, Spark",2026-02-11,45844,ml_engineer
+JOB0098,Data Analyst,HexaData,Toulouse,CDI,Senior,51907,59492,Remote,"Dataiku, Excel, Power BI, Tableau",2026-04-25,55700,data_analyst
+JOB0099,Data Analyst,DataNova,Paris,Stage,Mid,42589,49602,Hybrid,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-01-14,46096,data_analyst
+JOB0100,Data Scientist,GreenGrid,Marseille,CDI,Junior,39226,50198,On-site,"Docker, Pandas, Python, SQL",2026-04-22,44712,data_scientist
+JOB0101,Data Analyst,FinanceLab,Grenoble,Alternance,Senior,46218,53616,On-site,"Power BI, Python, Tableau",2026-04-06,49917,data_analyst
+JOB0102,Data Analyst,MobilityX,Paris,CDI,Mid,43746,54228,Remote,"Excel, Git, Looker, Power BI, SQL",2026-01-02,48987,data_analyst
+JOB0103,Analytics Engineer,FinanceLab,Paris,CDI,Junior,43957,52944,Remote,"BigQuery, Git, Looker, Python, SQL, dbt",2026-04-28,48450,analytics_engineer
+JOB0104,Data Analyst,RetailFlow,Marseille,CDI,Mid,42176,50397,On-site,"Excel, Looker, Power BI, Python",2026-05-27,46286,data_analyst
+JOB0105,Data Engineer,HexaData,Toulouse,CDI,Senior,53554,65364,Remote,"AWS, GCP, NumPy, Pandas, Python",2026-01-05,59459,data_engineer
+JOB0106,Data Engineer,MobilityX,Paris,CDI,Mid,48849,59169,Remote,"AWS, Airflow, Docker, Python, Snowflake, Spark, dbt",2026-02-16,54009,data_engineer
+JOB0107,BI Analyst,FinanceLab,Paris,CDD,Mid,42403,48054,Remote,"Looker, Power BI, SQL",2026-05-02,45228,bi_analyst
+JOB0108,Data Analyst,RetailFlow,Nantes,CDI,Mid,43396,47787,On-site,"Docker, Excel, Looker, NumPy, Power BI, SQL, Tableau",2026-05-08,45592,data_analyst
+JOB0109,Data Scientist,IsCool,Paris,Alternance,Junior,39676,49632,Hybrid,"Dataiku, NumPy, Pandas, Python, SQL, Scikit-learn",2026-03-17,44654,data_scientist
+JOB0110,Data Engineer,FinanceLab,Lille,CDI,Mid,46879,54541,Hybrid,"AWS, Airflow, Docker, Power BI, Python",2026-05-12,50710,data_engineer
+JOB0111,BI Analyst,Junot,Toulouse,Stage,Junior,32977,42531,Remote,"Excel, Looker, NumPy, Power BI, SQL, Tableau",2026-02-09,37754,bi_analyst
+JOB0112,Data Scientist,DataNova,Remote France,CDI,Mid,47701,52828,Hybrid,"Dataiku, NumPy, Pandas, Python, Scikit-learn",2026-05-13,50264,data_scientist
+JOB0113,Data Engineer,MobilityX,Lyon,CDI,Junior,40655,46412,On-site,"AWS, GCP, Python, SQL, dbt",2026-03-23,43534,data_engineer
+JOB0114,Data Scientist,IsCool,Toulouse,CDI,Junior,37457,48431,On-site,"Dataiku, Pandas, SQL, Scikit-learn",2026-02-05,42944,data_scientist
+JOB0115,Data Analyst,GreenGrid,Lyon,CDI,Mid,41828,52411,Hybrid,"Excel, Git, Looker, Python, SQL",2026-04-15,47120,data_analyst
+JOB0116,BI Analyst,GreenGrid,Paris,Stage,Mid,43686,51502,On-site,"Excel, Looker, Power BI, SQL, Tableau",2026-03-19,47594,bi_analyst
+JOB0117,Data Analyst,HexaData,Paris,CDD,Mid,45250,56581,Remote,"Excel, Power BI, Python, SQL, Tableau",2026-05-17,50916,data_analyst
+JOB0118,Data Analyst,Lyon Analytics,Lille,CDI,Mid,38402,47798,Remote,"AWS, Looker, Power BI, Python, SQL, Snowflake, Tableau",2026-04-17,43100,data_analyst
+JOB0119,Data Scientist,Junot,Paris,Alternance,Mid,52258,64094,On-site,"Dataiku, NumPy, Pandas, SQL, Scikit-learn",2026-04-23,58176,data_scientist
+JOB0120,Data Engineer,Lyon Analytics,Lyon,CDI,Junior,42884,49499,Hybrid,"AWS, Airflow, Azure, GCP, Snowflake, Spark, Tableau",2026-02-01,46192,data_engineer
+JOB0121,Data Analyst,MobilityX,Paris,CDI,Junior,36146,47225,Remote,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-04-30,41686,data_analyst
+JOB0122,Data Engineer,MobilityX,Paris,CDI,Senior,61140,68885,Hybrid,"AWS, Docker, Git, Python, dbt",2026-05-18,65012,data_engineer
+JOB0123,Data Analyst,FinanceLab,Paris,CDI,Junior,35996,46253,Remote,"Excel, GCP, Looker, Power BI, Python, SQL, Tableau",2026-04-26,41124,data_analyst
+JOB0124,BI Analyst,Lyon Analytics,Paris,Stage,Mid,40973,46027,Remote,"Excel, Pandas, Power BI, Tableau",2026-05-11,43500,bi_analyst
+JOB0125,Data Engineer,HexaData,Paris,CDI,Mid,51880,60134,Remote,"AWS, Airflow, Dataiku, GCP, SQL, Snowflake, Spark",2026-03-28,56007,data_engineer
+JOB0126,Data Engineer,FinanceLab,Lyon,CDI,Mid,48890,59572,Remote,"Docker, GCP, Snowflake",2026-03-20,54231,data_engineer
+JOB0127,BI Analyst,Lyon Analytics,Nantes,CDI,Junior,31887,38062,On-site,"Excel, Looker, Power BI, SQL",2026-05-27,34974,bi_analyst
+JOB0128,ML Engineer,GreenGrid,Paris,CDI,Junior,46240,53622,On-site,"AWS, Excel, Git, Python, Scikit-learn, Spark",2026-05-24,49931,ml_engineer
+JOB0129,Data Engineer,Lyon Analytics,Toulouse,CDI,Junior,37418,45183,Hybrid,"AWS, Airflow, Docker, GCP, Git, Snowflake",2026-05-23,41300,data_engineer
+JOB0130,Data Analyst,GreenGrid,Remote France,Stage,Mid,42774,48472,Hybrid,"Excel, Looker, Power BI, Python, SQL, Tableau",2026-04-12,45623,data_analyst
+JOB0131,BI Analyst,Lyon Analytics,Remote France,Alternance,Junior,30356,42181,On-site,"Excel, Git, Looker, Tableau",2026-05-18,36268,bi_analyst
+JOB0132,Data Analyst,Junot,Lyon,CDI,Junior,36069,44876,On-site,"Excel, Looker, Power BI, SQL",2026-04-16,40472,data_analyst
+JOB0133,Data Engineer,HexaData,Lyon,CDI,Junior,41508,53119,Hybrid,"AWS, Docker, GCP, dbt",2026-03-15,47314,data_engineer
+JOB0134,Data Scientist,FinanceLab,Grenoble,CDI,Mid,47383,57434,Hybrid,"Dataiku, SQL, Scikit-learn",2026-02-17,52408,data_scientist
+JOB0135,Analytics Engineer,MobilityX,Remote France,Alternance,Senior,51075,57519,On-site,"BigQuery, Git, Looker, Python",2026-05-10,54297,analytics_engineer
+JOB0136,Data Engineer,FinanceLab,Paris,CDI,Junior,43759,53069,Hybrid,"AWS, Airflow, Docker, Python, Snowflake, dbt",2026-05-12,48414,data_engineer
+JOB0137,Data Engineer,RetailFlow,Paris,CDI,Senior,60911,67561,Hybrid,"AWS, Python, SQL, Spark, dbt",2026-05-30,64236,data_engineer
+JOB0138,BI Analyst,HexaData,Paris,CDI,Mid,40508,49978,Remote,"Excel, Looker, SQL, Tableau",2026-01-31,45243,bi_analyst
+JOB0139,Data Scientist,GreenGrid,Remote France,CDI,Junior,36094,44011,Remote,"BigQuery, Git, NumPy, Pandas, SQL, Scikit-learn",2026-02-25,40052,data_scientist
+JOB0140,BI Analyst,RetailFlow,Toulouse,CDI,Mid,40304,47963,Remote,"Excel, Looker, Power BI, SQL, Tableau",2026-04-24,44134,bi_analyst
+JOB0141,Data Analyst,Junot,Paris,CDI,Junior,37180,44829,Remote,"Excel, Looker, Snowflake, Tableau",2026-04-29,41004,data_analyst
+JOB0142,Data Scientist,GreenGrid,Paris,CDI,Junior,39024,49133,On-site,"Dataiku, NumPy, Power BI, Python, SQL",2026-01-18,44078,data_scientist
+JOB0143,ML Engineer,RetailFlow,Lyon,CDI,Junior,43109,53382,On-site,"AWS, BigQuery, Docker, Excel, Git, Python, Scikit-learn, Spark",2026-02-15,48246,ml_engineer
+JOB0144,ML Engineer,Lyon Analytics,Paris,CDI,Senior,62028,72222,Hybrid,"AWS, NumPy, Scikit-learn, Spark",2026-03-30,67125,ml_engineer
+JOB0145,Data Analyst,Junot,Paris,Alternance,Mid,41263,51894,On-site,"Docker, Excel, Looker, Power BI, Python, SQL, Tableau",2026-01-12,46578,data_analyst
+JOB0146,Data Engineer,HexaData,Paris,CDI,Senior,57462,62609,On-site,"AWS, Airflow, Docker, Spark, dbt",2026-05-14,60036,data_engineer
+JOB0147,Data Analyst,GreenGrid,Paris,CDI,Senior,56022,67489,Hybrid,"Looker, NumPy, Python, SQL, Tableau",2026-04-17,61756,data_analyst
+JOB0148,Data Engineer,GreenGrid,Paris,CDI,Mid,49974,60931,Hybrid,"AWS, Airflow, Spark, dbt",2026-04-17,55452,data_engineer
+JOB0149,Data Scientist,IsCool,Paris,CDI,Junior,44297,48944,On-site,"Dataiku, NumPy, Pandas, Python, SQL, Scikit-learn",2026-05-31,46620,data_scientist
+JOB0150,BI Analyst,MobilityX,Lyon,CDI,Senior,48727,55210,On-site,"Looker, Power BI, Tableau",2026-02-22,51968,bi_analyst
+JOB0151,Data Engineer,MobilityX,Paris,CDI,Junior,43819,52190,Hybrid,"Airflow, GCP, Snowflake, Spark, Tableau, dbt",2026-02-22,48004,data_engineer
+JOB0152,Data Engineer,FinanceLab,Paris,CDI,Junior,41195,45327,Remote,"AWS, Airflow, Docker, SQL, Snowflake, Spark",2026-03-04,43261,data_engineer
+JOB0153,Data Engineer,DataNova,Toulouse,CDI,Junior,40002,51919,Remote,"Airflow, BigQuery, Docker, GCP, Git, SQL, Snowflake, Spark",2026-01-16,45960,data_engineer
+JOB0154,Data Scientist,DataNova,Marseille,CDI,Senior,52397,62658,On-site,"NumPy, SQL, Scikit-learn",2026-02-25,57528,data_scientist
+JOB0155,Data Engineer,Junot,Paris,CDI,Mid,53050,64527,Remote,"Docker, GCP, Python, Snowflake, Spark, dbt",2026-03-12,58788,data_engineer
+JOB0156,Data Scientist,GreenGrid,Paris,CDI,Mid,50527,61131,Hybrid,"Dataiku, NumPy, Python, SQL",2026-04-01,55829,data_scientist
+JOB0157,Data Analyst,FinanceLab,Paris,CDI,Mid,45628,51620,Remote,"NumPy, Power BI, Python, SQL, Tableau",2026-05-02,48624,data_analyst
+JOB0158,Data Analyst,HexaData,Paris,CDI,Mid,44554,53837,On-site,"Git, Looker, Power BI, Python, SQL, Snowflake, Tableau",2026-01-20,49196,data_analyst
+JOB0159,Data Scientist,HexaData,Paris,CDI,Mid,48469,60077,On-site,"NumPy, Pandas, Python, SQL, Scikit-learn",2026-05-25,54273,data_scientist
+JOB0160,Data Analyst,FinanceLab,Marseille,CDI,Senior,48717,55861,On-site,"Looker, Power BI, Python, SQL",2026-01-20,52289,data_analyst
+JOB0161,Data Engineer,RetailFlow,Nantes,Stage,Mid,50336,57009,Remote,"GCP, Spark, dbt",2026-04-07,53672,data_engineer
+JOB0162,Data Engineer,FinanceLab,Toulouse,CDI,Junior,41067,47486,Hybrid,"Airflow, Excel, GCP, SQL, Snowflake",2026-04-03,44276,data_engineer
+JOB0163,Data Analyst,FinanceLab,Paris,CDI,Mid,43209,48046,On-site,"BigQuery, Excel, Looker, Python, SQL, Tableau",2026-01-07,45628,data_analyst
+JOB0164,Data Analyst,FinanceLab,Lyon,CDI,Mid,41155,45256,On-site,"Looker, Power BI, Python, SQL, Tableau, dbt",2026-02-05,43206,data_analyst
+JOB0165,Data Analyst,MobilityX,Paris,CDI,Junior,35260,42709,On-site,"Airflow, Excel, Git, Power BI, Python, SQL, Tableau",2026-02-04,38984,data_analyst
+JOB0166,Data Engineer,RetailFlow,Remote France,CDI,Mid,46699,54305,On-site,"AWS, Airflow, GCP, Git, Snowflake, Spark",2026-04-12,50502,data_engineer
+JOB0167,ML Engineer,Lyon Analytics,Paris,CDI,Mid,57717,68122,Remote,"AWS, Docker, Git, Scikit-learn, Tableau",2026-05-20,62920,ml_engineer
+JOB0168,Data Analyst,HexaData,Nantes,CDI,Mid,42802,48519,Remote,"Excel, GCP, Looker, Power BI, Python, SQL, Spark, Tableau",2026-02-09,45660,data_analyst
+JOB0169,Data Scientist,IsCool,Bordeaux,CDI,Senior,55925,64694,On-site,"BigQuery, Dataiku, NumPy, Pandas, Power BI, Python, SQL, Scikit-learn",2026-04-01,60310,data_scientist
+JOB0170,Data Analyst,GreenGrid,Lille,CDI,Mid,42298,49571,Remote,"Excel, Looker, Python, SQL, Tableau",2026-05-13,45934,data_analyst
+JOB0171,Data Scientist,IsCool,Toulouse,CDI,Mid,46793,57120,On-site,"NumPy, Pandas, Python, Scikit-learn",2026-02-06,51956,data_scientist
+JOB0172,Data Engineer,HexaData,Paris,Alternance,Mid,50853,58753,On-site,"Airflow, GCP, Snowflake",2026-01-30,54803,data_engineer
+JOB0173,Data Analyst,Lyon Analytics,Paris,CDI,Senior,56066,62064,Hybrid,"Docker, Excel, Power BI, Python, Tableau",2026-02-17,59065,data_analyst
+JOB0174,Data Analyst,DataNova,Toulouse,CDI,Mid,38616,46298,Hybrid,"BigQuery, Excel, Looker, Power BI, Python, SQL, Tableau",2026-03-25,42457,data_analyst
+JOB0175,Data Analyst,IsCool,Paris,CDI,Mid,46235,52802,Remote,"Excel, GCP, Looker, Power BI, Python, SQL, Tableau, dbt",2026-02-04,49518,data_analyst
+JOB0176,Data Engineer,DataNova,Paris,CDI,Mid,49158,57342,Remote,"AWS, Airflow, BigQuery, Docker, SQL, Spark, dbt",2026-02-12,53250,data_engineer
+JOB0177,Data Engineer,FinanceLab,Paris,CDI,Mid,48439,59529,Remote,"AWS, GCP, Git, Looker, Python, SQL, dbt",2026-05-06,53984,data_engineer
+JOB0178,Data Engineer,MobilityX,Marseille,CDI,Junior,36252,46771,Remote,"Airflow, GCP, Python, SQL, Spark, dbt",2026-05-07,41512,data_engineer
+JOB0179,Data Scientist,Lyon Analytics,Paris,CDI,Mid,50005,58445,Hybrid,"Dataiku, SQL, Scikit-learn, Tableau",2026-01-09,54225,data_scientist
+JOB0180,Data Engineer,DataNova,Paris,Alternance,Mid,48961,59314,On-site,"AWS, Docker, GCP, Scikit-learn, dbt",2026-02-22,54138,data_engineer
